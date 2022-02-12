@@ -1,0 +1,16 @@
+c:\Users\User\Documents\Demotek\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+c:\Users\User\Documents\Demotek\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+c:\Users\User\Documents\Demotek\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+c:\Users\User\Documents\Demotek\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+c:\Users\User\Documents\Demotek\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+c:\Users\User\Documents\Demotek\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+c:\Users\User\Documents\Demotek\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+c:\Users\User\Documents\Demotek\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+c:\Users\User\Documents\Demotek\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Documents\Demotek\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+c:\Users\User\Documents\Demotek\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+c:\Users\User\Documents\Demotek\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+c:\Users\User\Documents\Demotek\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+c:\Users\User\Documents\Demotek\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+c:\Users\User\Documents\Demotek\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+c:\Users\User\Documents\Demotek\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
