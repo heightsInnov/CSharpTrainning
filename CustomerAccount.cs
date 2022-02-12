@@ -1,4 +1,4 @@
-class CustomerAccount{
+public class CustomerAccount{
     //Instance variable: Are variables declared outside of methods, constructors, blocks but within a class.
 
     /*
