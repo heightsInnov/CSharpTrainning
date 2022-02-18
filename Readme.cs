@@ -33,6 +33,18 @@ class Readme{
             }
 
 
-        sideNote: DRY -> Do Not Repeat Yourself
+        =============== Class 7 ==============
+
+        Access Modifiers
+            - public : Objects can be accessed from any part of the project and even outside of the project
+            - private :
+            - protected
+            - internal
+            - static
+
+        Side Note: DRY -> Do Not Repeat Yourself
+
+        ============ Class 8 ===============
+
     */
 }
