@@ -74,5 +74,12 @@ class Readme{
                 command 'git branch {branch name}'
             7. switch the branch using the command 'git checkout {branch name}'
                 Follow the steps again to add, commit and push to remote repository.
+
+            => Assignment
+            Write two classes
+                1. Loan Request
+                2. Customer Details
+             with required arguement constructors.
+             -- Create a new branch day8_assignment and push to the existing repository.
     */
 }
