@@ -45,6 +45,34 @@ class Readme{
         Side Note: DRY -> Do Not Repeat Yourself
 
         ============ Class 8 ===============
+        Git: Is a version control system for saving a working chunk of a project at 
+            differnet point of development
 
+        Git Flow: Git follows the below flow;
+            1. Develop your project locally (On your system)
+            2. Initialize a local repository on the project folder using command 'git init'
+            3. For every new working block of code or project, the following should be done;
+                - Use command 'git add' with optional parameter (. -> all, or select different files) to add
+                  the new lines of code or files into the git system
+                - Once added, use command 'git commit -m {message}' to commit the changes with a commit
+                  message to identify every step in the process of project development
+            4. Once working tree is commited  and clean and also satisfactory for a push, follow the 
+                following steps to push the source to a remote repository.
+                - Add a remote repository to tract the local branch using the command
+                    'git remote add {name} {url}' which creates a default branch master/main depending 
+                    on the setting you have chosen on your version control portal.
+                    e.g git remote add oge https://github.com/heightsInnov/GitDemo.git
+                - Verify the remote branch added with the command 'git remote -v'
+                - Once added, use the command 'git push {optional flag} {remote name} {remote branch}' to push
+                  to the remote branch e.g git push -u oge master
+                  optional flag examples include;
+                    -f -> to force push to the branch
+                    -u -> to update current branch
+            5. To allow other memebers work on a team project, or as a team member, to use a git project, 
+                use the command 'git clone {url}' to fetch the exisiting repository into your local.
+            6. For new commits you can decide to create new branches to hold new implementations using the 
+                command 'git branch {branch name}'
+                
+                
     */
 }
