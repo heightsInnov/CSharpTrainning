@@ -72,7 +72,7 @@ class Readme{
                 use the command 'git clone {url}' to fetch the exisiting repository into your local.
             6. For new commits you can decide to create new branches to hold new implementations using the 
                 command 'git branch {branch name}'
-                
-                
+            7. switch the branch using the command 'git checkout {branch name}'
+                Follow the steps again to add, commit and push to remote repository.
     */
 }
